@@ -5,3 +5,4 @@ gunicorn==23.0.0
 packaging==26.3
 psycopg2==2.9.13
 sqlparse==0.6.1
+django-summernote==0.8.20.0
