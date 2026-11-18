@@ -1,6 +1,7 @@
 .venv/
 .DS_Store
 env.py
+blog/fixtures
 
 # Python cache files
 __pycache__/
